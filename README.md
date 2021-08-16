@@ -29,6 +29,7 @@ You can update your existing project to an up-to-date QuickStart by following th
 - Copy your old `.git` folder into your new project's root
 
 Now you can continue working on the new project.
+test
 
 ## Prerequisites
 
